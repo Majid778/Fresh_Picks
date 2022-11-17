@@ -1,0 +1,214 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Quiz.unity
+    guid: 2de4ae77b96472949a9d3d49df5711d1
+  - enabled: 1
+    path: Assets/Scenes/Quiz 1.unity
+    guid: bf91403a6c2546047a0a67ec47a15cf9
+  - enabled: 1
+    path: Assets/Scenes/Quiz 2.unity
+    guid: 5e932d00ad74f6c4b850ddcc5ecc95bb
+  - enabled: 1
+    path: Assets/Scenes/Quiz 3.unity
+    guid: c79f1f9d92cc3a3459244add230d7a0b
+  - enabled: 1
+    path: Assets/Scenes/Quiz 4.unity
+    guid: a3cab23fb7166d54a8d35d8836c589c9
+  - enabled: 1
+    path: Assets/Scenes/Quiz 5.unity
+    guid: 1fbfa02bd9dd52944a60670d893be3b0
+  - enabled: 1
+    path: Assets/Scenes/FruitVeg.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Fruit_menu.unity
+    guid: a06b09e082dd9dc4287d46946fc33c23
+  - enabled: 1
+    path: Assets/Scenes/Veg_menu.unity
+    guid: cddb631011020734ea7c1978e4d1c157
+  - enabled: 1
+    path: Assets/Scenes/Selection 1.unity
+    guid: feb94461b79ed5e4fa95956737c38c02
+  - enabled: 1
+    path: Assets/Scenes/Fruits/Watermelon/Watermelon.unity
+    guid: 64f48ba16184a478186475912d828d16
+  - enabled: 1
+    path: Assets/Scenes/Main menu.unity
+    guid: 0dfb73f66701e8c44925d861591a5c1b
+  - enabled: 1
+    path: Assets/Scenes/Fruits/Apples/Apple.unity
+    guid: ddfde58ecc00048d891d7ea86713d059
+  - enabled: 1
+    path: Assets/Scenes/Fruits/Apples/DipperImage.unity
+    guid: 7d5070c5471fa4f5982378b639b96df8
+  - enabled: 1
+    path: Assets/Scenes/Fruits/Apples/AppleIng.unity
+    guid: 16e6414877440434192812e58c10aaad
+  - enabled: 1
+    path: Assets/Scenes/Fruits/Apples/AppleRec1.unity
+    guid: 2f53bfe3b3b994388aaee7b540e3eb86
+  - enabled: 1
+    path: Assets/Scenes/Fruits/Apples/AppleRec2.unity
+    guid: 9c44b89499c4b4dd2b8ca2faf0f92ea6
+  - enabled: 1
+    path: Assets/Scenes/Fruits/Apples/AppleDipperTitle.unity
+    guid: 2ebf455c5ed9a44d0996c5622e8dbe2f
+  - enabled: 1
+    path: Assets/Scenes/Fruits/Banana/BananaImage.unity
+    guid: b63d71fa3c42c49ba81541d18b853af1
+  - enabled: 1
+    path: Assets/Scenes/Fruits/Banana/BananaIng.unity
+    guid: f687c6a6d7abf4de394280e7733f33f8
+  - enabled: 1
+    path: Assets/Scenes/Fruits/Watermelon/WMImg.unity
+    guid: 7341aa93230054ed1aa274ec7e242de2
+  - enabled: 1
+    path: Assets/Scenes/Fruits/Banana/BananaRec2.unity
+    guid: e27e2f42c95c6444cb936c082cc76a05
+  - enabled: 1
+    path: Assets/Scenes/Fruits/Banana/Bananas.unity
+    guid: 4979a2ccf6296486cb7692eeef9bb986
+  - enabled: 1
+    path: Assets/Scenes/Fruits/Banana/BananaTitle.unity
+    guid: 69f3744d21c21438497998e1c629a208
+  - enabled: 1
+    path: Assets/Scenes/Fruits/Orange/Orange.unity
+    guid: 23684f244c6644a728b20d1ff50a9ff1
+  - enabled: 1
+    path: Assets/Scenes/Fruits/Orange/OrangeImg.unity
+    guid: 617c5da68b42a4539baa0fea919e5870
+  - enabled: 1
+    path: Assets/Scenes/Fruits/Watermelon/WMIng.unity
+    guid: f5c7a63f366e14185b433d442a71d7b0
+  - enabled: 1
+    path: Assets/Scenes/Fruits/Orange/OrangeIng.unity
+    guid: 2a7217664b41a4db99554d4df0f92b00
+  - enabled: 1
+    path: Assets/Scenes/Fruits/Orange/OrangeRec.unity
+    guid: e9d27cdf202ba42dda7d97318aeb8b2f
+  - enabled: 1
+    path: Assets/Scenes/Fruits/Watermelon/WMRec1.unity
+    guid: ed5cd5a8afe844e06bbb69a7d1d8efdb
+  - enabled: 1
+    path: Assets/Scenes/Fruits/Orange/OrangeTitle.unity
+    guid: 57a4bbe70955f479fa5c7d0772fab6fd
+  - enabled: 1
+    path: Assets/Scenes/Fruits/Banana/BananaRec1.unity
+    guid: e076bdc8b01504c8e88ecc5186f1dfa2
+  - enabled: 1
+    path: Assets/Scenes/Fruits/Apples/AppleRec1.unity
+    guid: 2f53bfe3b3b994388aaee7b540e3eb86
+  - enabled: 1
+    path: Assets/Scenes/Fruits/Apples/AppleIng.unity
+    guid: 16e6414877440434192812e58c10aaad
+  - enabled: 1
+    path: Assets/Scenes/Fruits/Apples/DipperImage.unity
+    guid: 7d5070c5471fa4f5982378b639b96df8
+  - enabled: 1
+    path: Assets/Scenes/Fruits/Apples/Apple.unity
+    guid: ddfde58ecc00048d891d7ea86713d059
+  - enabled: 1
+    path: Assets/Scenes/Fruits/Apples/AppleRec2.unity
+    guid: 9c44b89499c4b4dd2b8ca2faf0f92ea6
+  - enabled: 1
+    path: Assets/Scenes/Vegtables/Pumpkin/PIng1.unity
+    guid: 8dc8b367639eb47d3b927d7128fa3da7
+  - enabled: 1
+    path: Assets/Scenes/Vegtables/Pumpkin/PIng2.unity
+    guid: 8c7cc40a3a12c4c1985a2f4b5f93e58e
+  - enabled: 1
+    path: Assets/Scenes/Vegtables/Pumpkin/PRec1.unity
+    guid: 5651940831a484e2f8bb4fdf091ff7cc
+  - enabled: 1
+    path: Assets/Scenes/Vegtables/Pumpkin/Pumpkin.unity
+    guid: f7eb5064990f09448b943b446db758f0
+  - enabled: 1
+    path: Assets/Scenes/Vegtables/Eggplant/EggImg.unity
+    guid: 417d3af6e0b174dc98e2174e0df05052
+  - enabled: 1
+    path: Assets/Scenes/Fruits/Watermelon/WMRec2.unity
+    guid: f1b13dc3a9952423f84772cf626a82b9
+  - enabled: 1
+    path: Assets/Scenes/Vegtables/Pumpkin/PRec2.unity
+    guid: 4df4bf9f99b6e46da9fb07fcdf4e97d7
+  - enabled: 1
+    path: Assets/Scenes/Vegtables/carrot/CarIng.unity
+    guid: 7d08f438312564b3c9869f44fcea5f65
+  - enabled: 1
+    path: Assets/Scenes/Vegtables/carrot/CarImg.unity
+    guid: 0296a41b10f7a4a10995b45e531284e6
+  - enabled: 1
+    path: Assets/Scenes/Vegtables/Eggplant/EggRec.unity
+    guid: 224deab67b6fe48e2a054d5fca97d535
+  - enabled: 1
+    path: Assets/Scenes/Vegtables/carrot/CarRec1.unity
+    guid: 017c1e079354f44e5bf82ccf5518aac3
+  - enabled: 1
+    path: Assets/Scenes/Vegtables/Pumpkin/PImg.unity
+    guid: 7cbb37ee6294e4d4295554d45c4f21ea
+  - enabled: 1
+    path: Assets/Scenes/Vegtables/Eggplant/Eggplant.unity
+    guid: 048516ceafd1a8947a12ad03ebc99ef7
+  - enabled: 1
+    path: Assets/Scenes/Fruits/Pineapple/Pineapple.unity
+    guid: ced09fe50392c4953a9b3b04b1cc5a44
+  - enabled: 0
+    path: Assets/Scenes/Fruits/Pineapple/PineappleTitle.unity
+    guid: c8dc090862777424f89b7f75f9703f9b
+  - enabled: 1
+    path: Assets/Scenes/Vegtables/cabbage/CabIng.unity
+    guid: 1f9b4a383855a41309e656dfa13dba88
+  - enabled: 1
+    path: Assets/Scenes/Vegtables/cabbage/CabRec1.unity
+    guid: f88495be166a149ada7a355eaf774c63
+  - enabled: 1
+    path: Assets/Scenes/Vegtables/cabbage/CabImg.unity
+    guid: 690e92a47261c412b834856afd6d78c7
+  - enabled: 1
+    path: Assets/Scenes/Vegtables/Broccoli rec/BImg.unity
+    guid: 408c2292ff2d2416c88d5be7011c477e
+  - enabled: 1
+    path: Assets/Scenes/Vegtables/cabbage/CabRec2.unity
+    guid: 692bf4f510af84c5b86b9d500ae44fbc
+  - enabled: 1
+    path: Assets/Scenes/Vegtables/cabbage/Cabbage.unity
+    guid: 3605a754fc086554d95007bc51d769d8
+  - enabled: 1
+    path: Assets/Scenes/Vegtables/carrot/Carrot.unity
+    guid: c1a824b0100c90d47b3f65ef0088212a
+  - enabled: 1
+    path: Assets/Scenes/Vegtables/Eggplant/EggIng.unity
+    guid: 66e91809642254a99b26a326dda2f4a7
+  - enabled: 1
+    path: Assets/Scenes/Vegtables/Broccoli rec/BRec1.unity
+    guid: d86a9af68419640c09e9057f791cbca4
+  - enabled: 1
+    path: Assets/Scenes/Vegtables/Broccoli rec/BIng.unity
+    guid: fe967418216634857a7501793826bb94
+  - enabled: 1
+    path: Assets/Scenes/Vegtables/carrot/CarRec2.unity
+    guid: fbf029f33cd204486aa99b5a9201785e
+  - enabled: 1
+    path: Assets/Scenes/Vegtables/Broccoli rec/BRec2.unity
+    guid: 79962c64ffa804e53b410202f80c7204
+  - enabled: 1
+    path: Assets/Scenes/Fruits/Pineapple/PineappleIng.unity
+    guid: e3a367b070dbd4309ad6f3a99b421f15
+  - enabled: 1
+    path: Assets/Scenes/Vegtables/Broccoli rec/Broccoli.unity
+    guid: dd5d1a4b211101e4786d13d81fbda210
+  - enabled: 1
+    path: Assets/Scenes/Fruits/Pineapple/PineappleImg.unity
+    guid: 6cde4c5ca974d415c8ad5a0d680e0009
+  - enabled: 1
+    path: Assets/Scenes/Fruits/Pineapple/PineappleRec.unity
+    guid: 67ef5077937a549bcad296cfe34327ac
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 85a429e1cf2b1da418925ed87cfdef5b,
+      type: 2}
